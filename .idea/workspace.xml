@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b9e93eb-185c-4830-adc0-f28e572d6279" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/.bsp/sbt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/.idea/modules/ScalaPlayground2021Aug-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/.idea/modules/ScalaPlayground2021Aug.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$21750d00c35a3469500b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$21750d00c35a3469500b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$21750d00c35a3469500b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$42d878670b0334183b5d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$42d878670b0334183b5d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$42d878670b0334183b5d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$b2478098174c451f747a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$b2478098174c451f747a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$b2478098174c451f747a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$df896179fbf0e113c4dc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$df896179fbf0e113c4dc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/config-classes/$df896179fbf0e113c4dc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/src/main/scala/Variables.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/src/main/scala/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/.history3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/scala-2.13/classes/Variables$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/scala-2.13/classes/Variables$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/scala-2.13/classes/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/test/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaPlayground2021Aug/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1woypnPwpr39MfsiAf6xJle71c4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b9e93eb-185c-4830-adc0-f28e572d6279" name="Changes" comment="" />
+      <created>1629139421193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629139421193</updated>
+    </task>
+    <servers />
+  </component>
+</project>
